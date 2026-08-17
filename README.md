@@ -23,14 +23,14 @@ The dataset used in the development of this model is primary data collected manu
 
 ## 🛠️ Tech Stack
 
-| Category                    | Technologies Used                                                                                        |
-| :-------------------------- | :------------------------------------------------------------------------------------------------------- |
-| 🌐 **Programming Language** | `Python`                                                                                                 |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                                       |
-| 🧩 **Frameworks**           | `TensorFlow`, `Streamlit`                                                                                |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `OpenCV Python`, `SciPy`, `Plotly`, `Pillow` |
-| ⚡ **Tool**                 | `Google Colab`                                                                                           |
-| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                                              |
+| Category                    | Technologies Used                                                                                           |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                                                    |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                                                          |
+| 🧩 **Frameworks**           | `TensorFlow`, `Streamlit`                                                                                   |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `OpenCV Python`, `SciPy`,<br>`Plotly`, `Pillow` |
+| ⚡ **Tool**                 | `Google Colab`                                                                                              |
+| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                                                 |
 
 ---
 
