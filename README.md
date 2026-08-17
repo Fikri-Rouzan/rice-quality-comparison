@@ -23,13 +23,14 @@ The dataset used in the development of this model is primary data collected manu
 
 ## 🛠️ Tech Stack
 
-| Category                    | Technologies Used                                                                    |
-| :-------------------------- | :----------------------------------------------------------------------------------- |
-| 🌐 **Programming Language** | `Python`                                                                             |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                   |
-| 🧩 **Framework**            | `TensorFlow`                                                                         |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `OpenCV Python`, `SciPy` |
-| ⚡ **Tool**                 | `Google Colab`                                                                       |
+| Category                    | Technologies Used                                                                                        |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                                                 |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                                                       |
+| 🧩 **Frameworks**           | `TensorFlow`, `Streamlit`                                                                                |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `OpenCV Python`, `SciPy`, `Plotly`, `Pillow` |
+| ⚡ **Tool**                 | `Google Colab`                                                                                           |
+| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                                              |
 
 ---
 
@@ -44,4 +45,28 @@ The dataset used in the development of this model is primary data collected manu
 ```bash
 git clone https://github.com/Fikri-Rouzan/rice-quality-comparison.git
 cd rice-quality-comparison
+```
+
+3. **Create a Virtual Environment**
+
+```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+4. **Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+5. **Run the Streamlit Dashboard**
+
+```bash
+streamlit run dashboard/dashboard.py
 ```
