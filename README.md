@@ -13,6 +13,8 @@
 
 ## 📌 Description
 
+This deep learning implementation identifies and classifies the physical quality of rice grains based on visual features extracted from digital images. The modeling leverages transfer learning across multiple benchmark CNN architectures (MobileNetV2, ResNet50, and EfficientNetB0) to evaluate and compare classification performance across four physical quality categories. These categories comprise **whole** for intact rice grains in prime physical condition, **chalky** for grains exhibiting opaque, chalky white patches, **broken** for fractured or fragmented kernels, and **discolored** for grains suffering from yellowish discoloration, microbial damage, or heat defects.
+
 ---
 
 ## 💾 Dataset
